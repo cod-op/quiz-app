@@ -14,7 +14,7 @@ const Badge = ({ percent }) => {
 };
 
 
-function MyResult({ apiBase = "https://quiz-app-backend-wryc.onrender.com" }) {
+function MyResult({ apiBase = "https://quiz-app-backend-rlsi.onrender.com" }) {
 
   const [results, setResults] = useState(null);
   const [loading, setLoading] = useState(true);
