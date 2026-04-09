@@ -6,7 +6,7 @@ import { toast } from "react-toastify";
 
 import axios from 'axios'
 
-const API_BASE = "https://quiz-app-backend-wryc.onrender.com";
+const API_BASE = "https://quiz-app-backend-rlsi.onrender.com";
 
 const Sidebar = () => {
   const [selectedTech, setSelectedTech] = useState(null);
